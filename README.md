@@ -1,5 +1,5 @@
 # SOULEYMANE SOW
-## INGÉNIEUR DEVOPS-SysOps - 2 ANS D'EXPÉRIENCE
+## INGÉNIEUR DevOps-SysOps - 2 ANS D'EXPÉRIENCE
 
 ## Contact:
 📞 +33 6 12 01 40 06
@@ -8,7 +8,7 @@
 [LinkedIn](linkedin.com/in/souleymanesowss) 😎
 
 ## Éducation
-- **Polytech LILLE - France **
+- **Polytech LILLE - France**
   *Diplôme d’Ingénieur en Systèmes Embarqués - Systèmes Communicants*
   *2019 - 2022*
 
@@ -76,7 +76,7 @@
 - MONGODB
 - POSTGRESQL
 
-### I N G E N I E R I E  S Y S T E M E
+### I N G E N I E R I E   S Y S T E M E
 - ARCHITECTURE
 - CONCEPTION
 - INTEGRATION
